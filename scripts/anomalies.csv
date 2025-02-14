@@ -1,0 +1,3 @@
+Source_IP,Destination_IP,Protocol,Source_Port,Destination_Port,Length,Anomaly
+192.168.64.4,23.133.168.247,17,51344,123,90,1
+23.133.168.247,192.168.64.4,17,123,51344,90,1
